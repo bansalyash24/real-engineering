@@ -1,0 +1,19 @@
+Tcp: (Transfer control protocol)
+    - it is stateful
+    - does handshake before establishing a connection
+    - client and server knows about each other
+    - acknowledgement occurs
+    - rest api,websocket
+
+
+Udp : (User Datagram protocol)
+
+    - stateless
+    - faster than Tcp
+    - no handshake,no acknowledgement
+    - client and server does not know about each other
+    - there is no guarantee that data will be deliever or not
+    - very less latency
+
+
+//packet vala dekhna h

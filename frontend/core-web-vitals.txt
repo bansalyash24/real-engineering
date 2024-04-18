@@ -1,0 +1,5 @@
+Core Web Vitals
+let us see tomorrow - 19/04/24
+
+
+Largest contentful paint (LCP)
